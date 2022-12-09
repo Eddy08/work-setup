@@ -1,0 +1,360 @@
+
+##########
+name :./Work1 copy.zip
+last-modified: Fri Dec  9 23:32:07 2022
+
+content:
+
+##########
+
+##########
+name :./Work1.txt
+last-modified: Fri Dec  9 23:35:02 2022
+
+content:
+abc
+##########
+
+##########
+name :./Task.txt
+last-modified: Fri Dec  9 23:55:44 2022
+
+content:
+
+##########
+
+##########
+name :./Work1 copy.zip
+last-modified: Fri Dec  9 23:32:07 2022
+
+content:
+
+##########
+
+##########
+name :./Work1.txt
+last-modified: Fri Dec  9 23:35:02 2022
+
+content:
+abc
+##########
+
+##########
+name :./Task.txt
+last-modified: Fri Dec  9 23:55:46 2022
+
+content:
+
+##########
+name :./Work1 copy.zip
+last-modified: Fri Dec  9 23:32:07 2022
+
+content:
+
+##########
+
+##########
+name :./Work1.txt
+last-modified: Fri Dec  9 23:35:02 2022
+
+content:
+abc
+##########
+
+##########
+name :./Task.txt
+last-modified: Fri Dec  9 23:55:44 2022
+
+content:
+
+##########
+
+##########
+
+##########
+name :./Work1 copy.zip
+last-modified: Fri Dec  9 23:32:07 2022
+
+content:
+
+##########
+
+##########
+name :./Work1.txt
+last-modified: Fri Dec  9 23:35:02 2022
+
+content:
+abc
+##########
+
+##########
+name :./Task.txt
+last-modified: Sat Dec 10 00:33:18 2022
+
+content:
+
+##########
+name :./Work1 copy.zip
+last-modified: Fri Dec  9 23:32:07 2022
+
+content:
+
+##########
+
+##########
+name :./Work1.txt
+last-modified: Fri Dec  9 23:35:02 2022
+
+content:
+abc
+##########
+
+##########
+name :./Task.txt
+last-modified: Fri Dec  9 23:55:44 2022
+
+content:
+
+##########
+
+##########
+name :./Work1 copy.zip
+last-modified: Fri Dec  9 23:32:07 2022
+
+content:
+
+##########
+
+##########
+name :./Work1.txt
+last-modified: Fri Dec  9 23:35:02 2022
+
+content:
+abc
+##########
+
+##########
+name :./Task.txt
+last-modified: Fri Dec  9 23:55:46 2022
+
+content:
+
+##########
+name :./Work1 copy.zip
+last-modified: Fri Dec  9 23:32:07 2022
+
+content:
+
+##########
+
+##########
+name :./Work1.txt
+last-modified: Fri Dec  9 23:35:02 2022
+
+content:
+abc
+##########
+
+##########
+name :./Task.txt
+last-modified: Fri Dec  9 23:55:44 2022
+
+content:
+
+##########
+
+##########
+
+##########
+
+##########
+name :./Work1 copy.zip
+last-modified: Fri Dec  9 23:32:07 2022
+
+content:
+
+##########
+
+##########
+name :./Work1.txt
+last-modified: Fri Dec  9 23:35:02 2022
+
+content:
+abc
+##########
+
+##########
+name :./Task.txt
+last-modified: Sat Dec 10 00:35:40 2022
+
+content:
+
+##########
+name :./Work1 copy.zip
+last-modified: Fri Dec  9 23:32:07 2022
+
+content:
+
+##########
+
+##########
+name :./Work1.txt
+last-modified: Fri Dec  9 23:35:02 2022
+
+content:
+abc
+##########
+
+##########
+name :./Task.txt
+last-modified: Fri Dec  9 23:55:44 2022
+
+content:
+
+##########
+
+##########
+name :./Work1 copy.zip
+last-modified: Fri Dec  9 23:32:07 2022
+
+content:
+
+##########
+
+##########
+name :./Work1.txt
+last-modified: Fri Dec  9 23:35:02 2022
+
+content:
+abc
+##########
+
+##########
+name :./Task.txt
+last-modified: Fri Dec  9 23:55:46 2022
+
+content:
+
+##########
+name :./Work1 copy.zip
+last-modified: Fri Dec  9 23:32:07 2022
+
+content:
+
+##########
+
+##########
+name :./Work1.txt
+last-modified: Fri Dec  9 23:35:02 2022
+
+content:
+abc
+##########
+
+##########
+name :./Task.txt
+last-modified: Fri Dec  9 23:55:44 2022
+
+content:
+
+##########
+
+##########
+
+##########
+name :./Work1 copy.zip
+last-modified: Fri Dec  9 23:32:07 2022
+
+content:
+
+##########
+
+##########
+name :./Work1.txt
+last-modified: Fri Dec  9 23:35:02 2022
+
+content:
+abc
+##########
+
+##########
+name :./Task.txt
+last-modified: Sat Dec 10 00:33:18 2022
+
+content:
+
+##########
+name :./Work1 copy.zip
+last-modified: Fri Dec  9 23:32:07 2022
+
+content:
+
+##########
+
+##########
+name :./Work1.txt
+last-modified: Fri Dec  9 23:35:02 2022
+
+content:
+abc
+##########
+
+##########
+name :./Task.txt
+last-modified: Fri Dec  9 23:55:44 2022
+
+content:
+
+##########
+
+##########
+name :./Work1 copy.zip
+last-modified: Fri Dec  9 23:32:07 2022
+
+content:
+
+##########
+
+##########
+name :./Work1.txt
+last-modified: Fri Dec  9 23:35:02 2022
+
+content:
+abc
+##########
+
+##########
+name :./Task.txt
+last-modified: Fri Dec  9 23:55:46 2022
+
+content:
+
+##########
+name :./Work1 copy.zip
+last-modified: Fri Dec  9 23:32:07 2022
+
+content:
+
+##########
+
+##########
+name :./Work1.txt
+last-modified: Fri Dec  9 23:35:02 2022
+
+content:
+abc
+##########
+
+##########
+name :./Task.txt
+last-modified: Fri Dec  9 23:55:44 2022
+
+content:
+
+##########
+
+##########
+
+##########
+
+##########

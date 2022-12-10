@@ -12,7 +12,9 @@ default="Month1"
 ## Adding the File to Zip inside the new folder name
 def add_file_to_zip(backup_location,file_path,folder_name=None):
     if folder_name is not None:
+        global default
         default=folder_name
+    print("Backing up to" ,backup_location)    
     with zipfile.ZipFile(backup_location, mode="a") as archive:
         archive.write(file_path,default,zipfile.ZIP_DEFLATED )
 
@@ -22,17 +24,17 @@ def new_folder_name(files):
         if(obj.is_dir()):
             backup_folders.append(obj)
 
-    return backup_folders[-1];
+    return backup_folders[-1] if len(backup_folders) >=1  else []
 
 ##Backup File in a zip folder specified in the backup_location
 def backup_file(file_path,backup_location=backup_location):
     print("Backing Up the File in "+backup_location)
     if os.path.exists(backup_location) & zipfile.is_zipfile(backup_location):
         with zipfile.ZipFile(backup_location,'r') as backup:
-            add_file_to_zip(backup_location=backup_folders,file_path=file_path,folder_name=new_folder_name(files=backup.infolist()))
+            add_file_to_zip(backup_location=backup_location,file_path=file_path,folder_name=new_folder_name(files=backup.infolist()))
     else:
 
-        add_file_to_zip(backup_location=backup_folders,file_path=file_path)
+        add_file_to_zip(backup_location=backup_location,file_path=file_path)
         
 ## Delete the File from the system
 

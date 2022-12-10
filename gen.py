@@ -14,7 +14,7 @@ def add_file_to_zip(backup_location,file_path,folder_name=None):
     if folder_name is not None:
         default=folder_name
     with zipfile.ZipFile(backup_location, mode="a") as archive:
-          archive.write(file_path,default,zipfile.ZIP_DEFLATED )
+        archive.write(file_path,default,zipfile.ZIP_DEFLATED )
 
 ## Geting the new folder name in the zip
 def new_folder_name(files):

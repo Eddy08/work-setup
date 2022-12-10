@@ -15,6 +15,7 @@ def add_file_to_zip(backup_location,file_path,folder_name=None):
         global default
         default=folder_name
     print("Backing up to" ,backup_location)    
+    print("File Path --> ",file_path)
     with zipfile.ZipFile(backup_location, mode="a") as archive:
         archive.write(file_path,default,zipfile.ZIP_DEFLATED )
 
@@ -75,6 +76,7 @@ def get_file_data():
                 file_model['last_modification']=time.ctime(os.path.getmtime(obj.path))
                 file_model['content']=current_file_data.readlines();
                 file_dict[obj.path]=file_model
+                print("File Dictionary Details --> ",file_dict)
                 backup_file(file_path=obj.path)
                 delete_file(file_path=obj.path)    
             # print(obj.path)

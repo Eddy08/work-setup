@@ -84,7 +84,7 @@ def store_data(summary_location,summary_json,scan_dir):
         if not old_dict:
             updated_dict=new_dict
         else:
-           updated_dict=dict(new_dict.items() | old_dict.items())
+            updated_dict=new_dict | old_dict
 
         for k,v  in updated_dict.items():
             content_structure(writer=writer,file_path=k,file_model=v)
